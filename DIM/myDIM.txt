@@ -1,7 +1,8 @@
 // Threaded Needle
-// Corkscrew, Liquid Coils, Clown Cartridge, Vorpal, Charge Time MW
+// Corkscrew, Liquid Coils, Clown Cartridge, Vorpal, (Charge Time / Stability MW)
 //notes: [Aurae] personal preference
 dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391,3128594062
+dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391,384158423
 
 // IKELOS_SMG_V1.0.2
 // Corkscrew, Seraph Rounds, Subsistence, Demolitionist, Stability MW
@@ -20,5 +21,4 @@ dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093#note
 
 // Wolftone Draw
 // Elastic String, Carbon Arrow Shaft, Shoot to Loot, Dragonfly
-//notes: [Aurae] personal preference
 dimwishlist:item=3472875143&perks=2801223209,2154191829,3700496672,2848615171#notes:[Aurae] Nightfalls
