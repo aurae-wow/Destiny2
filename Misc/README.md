@@ -1,7 +1,6 @@
 Free emblem codes:
 
 * A Classy Order - YRC-C3D-YNC
-* Countdown to Convergence - PHV-6LF-9CP
 * Cryonautics - RA9-XPH-6KJ
 * Galilean Excursion - JYN-JAA-Y7D
 * Sequence Flourish - 7D4-PKR-MD7
@@ -11,6 +10,8 @@ Free emblem codes:
 * The Visionary - XFV-KHP-N97
 * Shadow's Light - F99-KPX-NCF
 * Sneer of the Oni - 6LJ-GH7-TPA
+* Countdown to Convergence - PHV-6LF-9CP
+* Liminal Nadir - VA7-L7H-PNC
 
 More emblems and how to get them can be found at:
 https://destinyemblemcollector.com/
