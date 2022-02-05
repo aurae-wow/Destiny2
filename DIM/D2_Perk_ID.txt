@@ -1,7 +1,7 @@
 Barrel
 202670084   - Full Bore
 466087222   - Smoothbore
-839105230	  - Arrowhead Brake
+839105230   - Arrowhead Brake
 1047830412  - Full Choke
 1300023272  - Barrel Shroud
 1332244541  - Rifled Barrel
