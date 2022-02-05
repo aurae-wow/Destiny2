@@ -1,0 +1,237 @@
+Barrel		
+202670084 	-	Full Bore
+466087222	  -	Smoothbore
+839105230	  -	Arrowhead Brake
+1047830412	-	Full Choke
+1300023272	-	Barrel Shroud
+1332244541	-	Rifled Barrel
+1392496348	-	Polygonal Rifling
+1467527085	-	Extended Barrel
+1482024992	-	Smallbore
+1840239774	-	Fluted Barrel
+3250034553	-	Hammer-Forged Rifling
+3661387068	-	Chambered Compensator
+4090651448	-	Corkscrew Rifling
+
+Blade
+436053704   - Hungry Edge
+938542991   - Tempered Edge
+1261178282  - Enduring Blade
+2827049491  - Honed Edge
+3666208348  - Jagged Edge
+
+Bowstring
+852209214	  -	Polymer String
+1196733167	-	Tactile String
+1784898267	-	Natural String
+2801223209	-	Elastic String
+3371775011	-	High Tension String
+3768438372	-	Agile Bowstring
+4067834857	-	Flexible String
+
+Launcher Barrel
+981914802 	-	Hard Launch
+1441682018	-	Linear Compensator
+1478423395	-	Volatile Launch
+1844523823	-	Confined Launch
+3525010810	-	Quick Launch
+3798852852	-	Smart Drift Control
+3809316345	-	Countermass
+
+Sight
+13792278  	-	Hitmark IS
+13792279  	-	Cleanshot IS
+445755704 	-	Tactic SAS
+445755705 	-	Shortspec SAS
+445755706 	-	Control SAS
+445755707 	-	Quickdot SAS
+445755710 	-	Farpoint SAS
+445755711 	-	Target SAS
+679077872 	-	Rifle Scope SSF
+679077873 	-	Rifle Scope ST
+1926090090	-	Crossfire HCS
+1926090091	-	Sureshot HCS
+1926090092	-	Truesight HCS
+1926090093	-	Hitmark HCS
+1926090094	-	Fastdraw HCS
+1926090095	-	Steadyhand HCS
+2405638014	-	Red Dot Micro
+2405638015	-	Red Dot 2 MOA
+
+Scope
+360593481 	-	SRO-52 Ocular
+360593482	  -	SRO-41 Ocular
+360593483	  -	SRO-37 Ocular
+965619220 	-	SLO-21 Post
+965619221	  -	SLO-12 Post
+965619223	  -	SLO-10 Post
+3151536500	-	SPO-28 Front
+3151536501	-	SPO-57 Front
+3151536503	-	SPO-26 Front
+
+Arrow
+16392701    - Compact Arrow Shaft
+1500996326  - Natural Fletching
+2154191829  - Carbon Arrow Shaft
+3311977193  - Helical Fletching
+3429800428  - Fiberglass Arrow Shaft
+3827198035  - Straight Fletching
+
+Battery
+689005463 	-	Accelerated Coils
+732557052	  -	Tactical Battery
+1483536627	-	Ionized Battery
+1687452232	-	Liquid Coils
+2680121939	-	Enhanced Battery
+2749775325	-	Light Battery
+2969185026	-	Projection Fuse
+3868766766	-	Particle Repeater
+
+Guard
+52780822    - Balanced Guard
+269888150   - Swordmaster's Guard
+599007201   - Enduring Guard
+2349202967  - Heavy Guard
+3625355092  - Burst Guard
+
+Magazine
+106909392 	-	Tactical Mag
+332133599	  -	Mini Frags
+409831596 	-	Proximity Grenades
+679225683	  -	Light Mag
+791862061	  -	Assault Mag
+1087426260	-	Appended Mag
+1380253176	-	High-Explosive Ordnance
+1431678320	-	Alloy Magazine
+1561002382	-	High-Caliber Rounds
+1716000303	-	Concussion Grenades
+1771897777	-	Augmented Drum
+1885400500	-	Ricochet Rounds
+1968497646	-	Armor-Piercing Rounds
+1996142143	-	Black Powder
+2420895100	-	Extended Mag
+2822142346	-	High-Velocity Rounds
+2870095399	-	Thermoplastic Grenades
+2985827016	-	Alloy Casing
+3032599245	-	Blinding Grenades
+3142289711	-	Accurized Rounds
+3177308360	-	Steady Rounds
+3230963543	-	Flared Magwell
+3301904089	-	Spike Grenades
+3373736292	-	Sticky Grenades
+3492396210	-	Implosion Rounds
+3796465595	-	Impact Casing
+4134353779	-	Drop Mag
+
+Trait
+11551321  	-	Iron Grip
+11612903	  -	Adrenaline Junkie
+25606670  	-	Dual Loader
+47981717  	-	Opening Shot
+124408337 	-	Headstone
+201365942	  -	Archer's Tempo
+205890336 	-	Underdog
+247725512	  -	Rapid Hit
+280464955 	-	Firmly Planted
+354401740	  -	Assassin's Blade
+438098033 	-	Harmony
+454085387	  -	Blunt Execution Rounds
+460017080 	-	Headseeker
+469285294	  -	Recombination
+588594999 	-	Moving Target
+591790007	  -	Iron Reach
+699525795 	-	Eye of the Storm
+706527188	  -	Quickdraw
+908147344 	-	Sneak Bow
+951095735	  -	Impulse Amplifier
+957782887 	-	Snapshot Sights
+960810156	  -	Danger Zone
+972757866	  -	Pulse Monitor
+1015611457	-	Kill Clip
+1140096971	-	Seraph Rounds
+1168162263	-	Outlaw
+1195158366	-	Encore
+1264398905	-	Celerity
+1275731761	-	Cluster Bomb
+1354429876	-	Fourth Time's The Charm
+1359896290	-	Dynamic Sway Reduction
+1427256713	-	Reservoir Burst
+1428297954	-	Perpetual Motion
+1523832109	-	Reconstruction
+1546637391	-	Vorpal Weapon
+1556840489	-	Lead From Gold
+1570042021	-	Heating Up
+1600092898	-	Backup Plan
+1631667848	-	Grave Robber
+1645158859	-	Under Pressure
+1683379515	-	Disruption Break
+1685431615	-	En Garde
+1749209109	-	Relentless Strikes
+1754714824	-	Kickstart
+1771339417	-	Firing Line
+1774574192	-	Osmosis
+1799762209	-	Cornered
+1820235745	-	Subsistence
+1866048759	-	Hip-Fire Grip
+1890422124	-	Tap the Trigger
+1954620775	-	Timed Payload
+2010801679	-	Ambitious Assassin
+2030760728	-	Energy Transfer
+2039302152	-	Slideways
+2077819806	-	Eager Edge
+2117683199	-	Full Auto Trigger System
+2213355989	-	High-Impact Reserves
+2244851822	-	Flash Counter
+2284787283	-	Clown Cartridge
+2360754333	-	Trench Barrel
+2387244414	-	Zen Moment
+2396489472	-	Chain Reaction
+2450788523	-	Killing Wind
+2551157718	-	Box Breathing
+2590710093	-	Tireless Blade
+2610012052	-	Golden Tricorn
+2621346526	-	Ensemble
+2679249093	-	One-Two Punch
+2726471870	-	Thresh
+2779035018	-	Feeding Frenzy
+2846385770	-	Rangefinder
+2848615171	-	Dragonfly
+2866798147	-	No Distractions
+2869569095	-	Field Prep
+2946784966	-	Tunnel Vision
+3016987351	-	Counterattack
+3038247973	-	Explosive Payload
+3047969693	-	Desperado
+3096702027	-	Genesis
+3108830275	-	Unrelenting
+3161816588	-	Slideshot
+3194351027	-	Explosive Light
+3201496230	-	Redirection
+3275789089	-	Shield Disorient
+3300816228	-	Auto-Loading Holster
+3350417888	-	Sympathetic Arsenal
+3365897133	-	Explosive Head
+3400784728	-	Triple Tap
+3418782618	-	Rewind Rounds
+3425386926	-	Rampage
+3436462433	-	Surplus
+3511092054	-	Elemental Capacitor
+3513791699	-	Mulligan
+3523296417	-	Demolitionist
+3592538738	-	Wellspring
+3643424744	-	Overflow
+3650930298	-	Cold Steel
+3673922083	-	Adagio
+3700496672	-	Shoot To Loot
+3705817207	-	Duelist's Trance
+3708227201	-	Surrounded
+3824105627	-	Firefly
+3913600130	-	Whirlwind Blade
+3927722942	-	Lasting Impression
+3977735242	-	Tracking Module
+4049631843	-	One For All
+4071163871	-	Threat Detector
+4082225868	-	Swashbuckler
+4104185692	-	Frenzy
+4152709778	-	Iron Gaze
+4252909580	-	Bottomless Grief
