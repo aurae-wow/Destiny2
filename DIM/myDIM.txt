@@ -1,3 +1,6 @@
+title:myDIM Wishlist
+description:A personal list of desired rolls.
+
 // Threaded Needle
 // Corkscrew, Liquid Coils, Clown Cartridge, Vorpal, (Charge Time / Stability MW)
 //notes: [Aurae] pve
@@ -87,3 +90,17 @@ dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417,2697
 dimwishlist:item=2807687156&perks=4090651448,106909392,2284787283,1771339417,2697220197
 dimwishlist:item=2807687156&perks=4090651448,1087426260,2284787283,1771339417,2697220197
 dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417,2697220197
+
+// Ignition Code (pve)
+// (Hard Launch / Quick Launch), Blinding Grenades, Ambitious Assassin, (Vorpal / Demolitionist)
+//notes:[Aurae] pve
+dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,1546637391
+dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,3523296417
+dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,1546637391
+dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,3523296417
+
+// Blasphemer (pve)
+// Corkscrew, Tactical Mag, (Surplus / Fourth Time's the Charm), Rampage
+//notes:[Aurae] pve
+dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,3425386926
+dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,3425386926
