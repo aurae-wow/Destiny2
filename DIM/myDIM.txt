@@ -2,7 +2,7 @@ title:myDIM Wishlist
 description:A personal list of desired rolls.
 
 // ---- AUTO RIFLE ----
-// Shadow Price / (Adept)
+// Shadow Price / (Adept) (Nightfalls)
 // (Arrowhead Brake / Corkscrew), (Accurized Rounds / Tactical Mag), Overflow, Dragonfly
 //notes:[Aurae] Corkscrew/Accurized gives best range, Arrowhead gives that 100 recoil; pve
 dimwishlist:item=2633186522&perks=839105230,106909392,3643424744,2848615171
@@ -16,13 +16,13 @@ dimwishlist:item=2147010335&perks=839105230,3142289711,3643424744,2848615171
 
 
 // ---- COMBAT BOW ----
-// Wolftone Draw
+// Wolftone Draw (Season of the Lost)
 // Elastic String, Carbon Arrow Shaft, Shoot to Loot, Dragonfly
 dimwishlist:item=3472875143&perks=2801223209,2154191829,3700496672,2848615171#notes:[Aurae] Nightfalls
 
 
 // ---- FUSION RIFLE ----
-// Threaded Needle
+// Threaded Needle (Season of the Chosen)
 // Corkscrew, Liquid Coils, Clown Cartridge, Vorpal, (Charge Time / Stability MW)
 //notes: [Aurae] pve
 dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391,3128594062
@@ -30,22 +30,22 @@ dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391,38
 
 
 // ---- GRENADE LAUNCHER ----
-// Ignition Code
+// Ignition Code (Season of the Splicer)
 // (Hard Launch / Quick Launch), Blinding Grenades, Ambitious Assassin, (Vorpal / Demolitionist)
-//notes:[Aurae] pve
+//notes:[Aurae] Blinding/crowd control, pve
 dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,3523296417
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,3523296417
 
- // Pardon Our Dust
+ // Pardon Our Dust (30th Anniversary)
  // Volatile Launch, Blinding Grenades, Auto-Loading Holster, Danger Zone
  //notes: [Aurae] Blinding/ALH pve
  dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,960810156
 
 
 // ---- HAND CANNON ----
-// The Palindrome / (Adept)
+// The Palindrome / (Adept) (Nightfalls)
 // (Hammer-Forged / Corkscrew), (High-Caliber / Ricochet), Outlaw, Rampage
 //notes:[Aurae] pve
 dimwishlist:item=432476743&perks=3250034553,1885400500,1168162263,3425386926
@@ -72,13 +72,13 @@ dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770#not
 
 
 // ---- PULSE RIFLE ----
-// BXR-55 Battler
+// BXR-55 Battler (30th Anniversary)
 // Arrowhead Brake, Flared Magwell, Demolitionist, Adrenaline Junkie
 dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
 
 
 // ---- ROCKET LAUNCHER ----
-// Royal Entry
+// Royal Entry (Strike playlist)
 // Linear Compensator, Alloy Casing, Auto-Loading Holster, Demolitionist, Reload MW
 dimwishlist:item=2448907086&perks=1441682018,2985827016,3300816228,3523296417,758092021#notes:[Aurae] Contraverse Hold/Demolitionist build
 
@@ -91,7 +91,7 @@ dimwishlist:item=217140611&perks=4090651448,106909392,3436462433,3523296417#note
 // Barrel Shroud, Tactical Mag, Graverobber, One-Two Punch
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093#notes:[Aurae] Titan punchy bois; Handling MW
 
-// Blasphemer
+// Blasphemer (Altar of Sorrows)
 // Corkscrew, Tactical Mag, (Surplus / Fourth Time's the Charm), Rampage
 //notes:[Aurae] pve
 dimwishlist:item=2782847179&perks=4090651448,106909392,3436462433,3425386926
@@ -99,7 +99,7 @@ dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,3425386926
 
 
 // ---- SNIPER RIFLE ----
-// Uzume RR4 / (Adept)
+// Uzume RR4 / (Adept) (Nightfalls)
 // (Corkscrew / Arrowhead Brake), Appended Mag, (Triple Tap / Snapshot Sights), Vorpal
 dimwishlist:item=2065081837&perks=4090651448,1087426260,3400784728,1546637391#notes:[Aurae] TT pve, Reload/Stability MW
 dimwishlist:item=2065081837&perks=839105230,1087426260,3400784728,1546637391#notes:[Aurae] TT pve, Reload/Stability MW
@@ -110,7 +110,7 @@ dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#note
 dimwishlist:item=852228780&perks=839105230,1087426260,957782887,1546637391#notes:[Aurae] Snapshot pvp against supers
 dimwishlist:item=852228780&perks=4090651448,1087426260,957782887,1546637391#notes:[Aurae] Snapshot pvp against supers
 
-// Distant Tumulus
+// Distant Tumulus (World loot pool)
 // (Arrowhead / Corkscrew), (Appended / Tactical), Clown Cartridge, Firing Line
 //notes:[Aurae] pve burst sniper
 dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417,2697220197
@@ -125,7 +125,7 @@ dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417,269
 //notes: [Aurae] pve
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417,384158423
 
-// Multimach CCX
+// Multimach CCX (Iron Banner)
 // Model 8 Red, Accurized Rounds, Killing Wind, Iron Reach
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007#notes:[Aurae] MnK pvp
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007,2697220197#notes:[Aurae] God Roll: Range MW / MnK pvp
@@ -135,7 +135,7 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,591790007,2697
 
 
 // ---- SWORD ----
-// Sola's Scar / (Adept)
+// Sola's Scar / (Adept) (Trials of Osiris)
 // (Jagged Edge / Honed Edge / Hungry Edge), Swordmaster's Guard, Tireless Blade, Chain Reaction
 //notes:[Aurae] pve
 dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472
@@ -147,7 +147,7 @@ dimwishlist:item=3847137620&perks=436053704,269888150,2590710093,2396489472
 
 
 // ---- TRACE RIFLE ----
-// Retraced Path
+// Retraced Path (30th Anniversary)
 // Fluted Barrel, Tactical Battery, Subsistence, Golden Tricorn, Reload Speed MW
 //notes: [Aurae] pve preference
 dimwishlist:item=548958835&perks=1840239774,732557052,1820235745,2610012052,758092021
