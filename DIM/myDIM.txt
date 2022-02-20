@@ -82,6 +82,16 @@ dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
 // Linear Compensator, Alloy Casing, Auto-Loading Holster, Demolitionist, Reload MW
 dimwishlist:item=2448907086&perks=1441682018,2985827016,3300816228,3523296417,758092021#notes:[Aurae] Contraverse Hold/Demolitionist build
 
+// The Hothead / (Adept) (Nightfalls)
+// Volatile Launch, Alloy Casing, (Demolitionist / Tracking Module), (Clown Cartridge / Explosive Light)
+//notes:[Aurae] Demolitionist paired with Clown Cartridge or Explosive Light, Tracking Module paired with Explosive Light
+dimwishlist:item=4255171531&perks=1478423395,2985827016,3523296417,3194351027
+dimwishlist:item=4255171531&perks=1478423395,2985827016,3977735242,3194351027
+dimwishlist:item=4255171531&perks=1478423395,2985827016,3523296417,2284787283
+dimwishlist:item=1866778462&perks=1478423395,2985827016,3523296417,3194351027
+dimwishlist:item=1866778462&perks=1478423395,2985827016,3977735242,3194351027
+dimwishlist:item=1866778462&perks=1478423395,2985827016,3523296417,2284787283
+
 
 // ---- SHOTGUN ----
 // The Deicide
