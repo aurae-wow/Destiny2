@@ -58,6 +58,13 @@ dimwishlist:item=3460122497,2801223209,3429800428,201365942,4104185692
 dimwishlist:item=3460122497,2801223209,3429800428,951095735,4104185692
 
 
+// ---- FUSION RIFLE ----
+// Trinary System (Gambit)
+// Arrowhead Brake, Accelerated Coils, Under Pressure, High-Impact Reserves
+//notes:[Aurae] Gambit preference given the low amount of special ammo present
+dimwishlist:item=3258665412,839105230,689005463,1645158859,2213355989
+
+
 // ---- GRENADE LAUNCHER ----
 // Ignition Code (Season of the Splicer)
 // (Hard Launch / Quick Launch), Blinding Grenades, Ambitious Assassin, (Vorpal / Demolitionist)
