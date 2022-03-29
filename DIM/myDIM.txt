@@ -79,6 +79,11 @@ dimwishlist:item=304659313,3525010810,3032599245,2010801679,3523296417
 //notes: [Aurae] Blinding/ALH pve
 dimwishlist:item=3849810018,1478423395,3032599245,3300816228,960810156
 
+// Truthteller
+// Linear Compensator, Blinding Grenades, Auto-Loading Holster, Demolitionist
+//notes:[Aurae] blast radius masterwork preferred
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,3523296417
+
 
 // ---- HAND CANNON ----
 // The Palindrome / (Adept) (Nightfalls)
