@@ -1,4 +1,4 @@
-title:myDIM Wishlist
+title:myDIM Wishlist [Aurae]
 description:A personal list of desired rolls for my playstyle.
 
 // ---- AUTO RIFLE ----
