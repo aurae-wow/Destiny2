@@ -259,63 +259,63 @@ Trait
 4252909580  - Bottomless Grief
 
 Enhanced Trait
-23371658  	- Box Breathing
-169755979	  - Dragonfly
-288411554	  - Rampage
-344235611	  - Chill Clip
-402033656	  - Graverobber
-595108252	  - Compulsive Reloader
-598607952	  - Chain Reaction
-617966211	  - Successful Warm-Up
-781192741	  - Surrounded
-838873202	  - Encore
-843318450	  - Steady Hands
-848860060	  - Fourth Time's The Charm
-855168139	  - Unrelenting
-859780267	  - One For All
-1008128453	- Cornered
-1161469972	- Swashbuckler
-1172098417	- Sleight of Hand
-1172413778	- Thresh
-1409206216	- Stats For All
-1523649716	- Tap The Trigger
-1658784563	- Genesis
-1738338041	- Tilting at Windmills
-1906147653	- Demolitionist
-2000295559	- Turnabout
-2002547233	- High-Impact Reserves
-2014892510	- Perpetual Motion
-2402480669	- Focused Fury
-2422968039	- Adrenaline Junkie
-2658083589	- Surplus
-2675361166	- Wellspring
-2682205016	- Overflow
-2748258257	- Heating Up
-2748801589	- Harmony
-2938480696	- Rapid Hit
-3007133316	- Frenzy
-3102670337	- Unstoppable Force
-3418165135	- Vorpal Weapon
-3431277734	- Adaptive Munitions
-3563868667	- Clown Cartridge
-3674673997	- Immovable Object
-3744057135	- Bait and Switch
-3797647183	- Ambitious Assassin
-3974407819	- No Distractions
-4207509907	- Killing Wind
-4245865861	- Subsistence
-4290541820	- Golden Tricorn
+23371658   - Box Breathing
+169755979  - Dragonfly
+288411554  - Rampage
+344235611  - Chill Clip
+402033656  - Graverobber
+595108252  - Compulsive Reloader
+598607952  - Chain Reaction
+617966211  - Successful Warm-Up
+781192741  - Surrounded
+838873202  - Encore
+843318450  - Steady Hands
+848860060  - Fourth Time's The Charm
+855168139  - Unrelenting
+859780267  - One For All
+1008128453 - Cornered
+1161469972 - Swashbuckler
+1172098417 - Sleight of Hand
+1172413778 - Thresh
+1409206216 - Stats For All
+1523649716 - Tap The Trigger
+1658784563 - Genesis
+1738338041 - Tilting at Windmills
+1906147653 - Demolitionist
+2000295559 - Turnabout
+2002547233 - High-Impact Reserves
+2014892510 - Perpetual Motion
+2402480669 - Focused Fury
+2422968039 - Adrenaline Junkie
+2658083589 - Surplus
+2675361166 - Wellspring
+2682205016 - Overflow
+2748258257 - Heating Up
+2748801589 - Harmony
+2938480696 - Rapid Hit
+3007133316 - Frenzy
+3102670337 - Unstoppable Force
+3418165135 - Vorpal Weapon
+3431277734 - Adaptive Munitions
+3563868667 - Clown Cartridge
+3674673997 - Immovable Object
+3744057135 - Bait and Switch
+3797647183 - Ambitious Assassin
+3974407819 - No Distractions
+4207509907 - Killing Wind
+4245865861 - Subsistence
+4290541820 - Golden Tricorn
 
 Origin Trait
-357495645   - Psychohack (Throne World)
-515704826   - Invader Tracker (Gambit)
-744217850   - Vanguard's Vindication (Vanguard)
-1281216113	- Stunning Recovery (Nightfalls)
-1607056502	- Hakke Breach Aramaments
-2839173408	- Omolon Fluid Dynamics
-2988596335	- Alacrity (Trials of Osiris)
-3363267119	- Souldrinker (Vow of the Disciple)
-3988215619	- Veist Stinger
-3989629871	- Skulking Wolf (Iron Banner)
-4008116374	- Suros Synergy
-4091460919	- One Quiet Moment (Crucible)
+357495645  - Psychohack (Throne World)
+515704826  - Invader Tracker (Gambit)
+744217850  - Vanguard's Vindication (Vanguard)
+1281216113 - Stunning Recovery (Nightfalls)
+1607056502 - Hakke Breach Aramaments
+2839173408 - Omolon Fluid Dynamics
+2988596335 - Alacrity (Trials of Osiris)
+3363267119 - Souldrinker (Vow of the Disciple)
+3988215619 - Veist Stinger
+3989629871 - Skulking Wolf (Iron Banner)
+4008116374 - Suros Synergy
+4091460919 - One Quiet Moment (Crucible)
