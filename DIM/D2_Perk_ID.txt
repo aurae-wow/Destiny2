@@ -263,45 +263,78 @@ Enhanced Trait
 169755979  - Dragonfly
 288411554  - Rampage
 344235611  - Chill Clip
+395388285  - Firing Line
 402033656  - Graverobber
+406461158  - Tracking Module
+494941759  - Threat Detector
+573122728  - Triple Tap
+509594246  - Rangefinder
 595108252  - Compulsive Reloader
 598607952  - Chain Reaction
 617966211  - Successful Warm-Up
+711234314  - Elemental Capacitor
 781192741  - Surrounded
 838873202  - Encore
 843318450  - Steady Hands
 848860060  - Fourth Time's The Charm
 855168139  - Unrelenting
 859780267  - One For All
+987673306  - Tunnel Vision
 1008128453 - Cornered
+1077019636 - Danger Zone
 1161469972 - Swashbuckler
+1167468626 - Lasting Impression
+1171147302 - Feeding Frenzy
+1171887445 - Headstone
 1172098417 - Sleight of Hand
 1172413778 - Thresh
+1370847713 - Opening Shot
 1409206216 - Stats For All
 1523649716 - Tap The Trigger
+1537607344 - Under Pressure
+1551736345 - Explosive Head
 1658784563 - Genesis
+1685378950 - Pulse Monitor
 1738338041 - Tilting at Windmills
 1906147653 - Demolitionist
+1961144892 - Quickdraw
 2000295559 - Turnabout
 2002547233 - High-Impact Reserves
 2014892510 - Perpetual Motion
+2216471363 - Disruption Break
+2308090567 - Field Prep
+2396422520 - Slideways
 2402480669 - Focused Fury
 2422968039 - Adrenaline Junkie
+2495011826 - Ensemble
 2658083589 - Surplus
 2675361166 - Wellspring
 2682205016 - Overflow
+2717805783 - Moving Target
 2748258257 - Heating Up
 2748801589 - Harmony
+2840833776 - Shoot to Loot
+2889515627 - Adagio
+2923251173 - Kill Clip
 2938480696 - Rapid Hit
 3007133316 - Frenzy
 3102670337 - Unstoppable Force
+3118144663 - Hip-Fire Grip
 3418165135 - Vorpal Weapon
 3431277734 - Adaptive Munitions
+3442762221 - Lead From Gold
+3523746922 - Archer's Tempo
+3528046508 - Auto-Loading Holster
 3563868667 - Clown Cartridge
 3674673997 - Immovable Object
+3719974635 - Eye of the Storm
 3744057135 - Bait and Switch
+3755250867 - Sympathetic Arsenal
 3797647183 - Ambitious Assassin
+3878366039 - Impulse Amplifier
+3920370755 - Firmly Planted
 3974407819 - No Distractions
+4116820839 - Snapshot Sights
 4207509907 - Killing Wind
 4245865861 - Subsistence
 4290541820 - Golden Tricorn
@@ -311,6 +344,7 @@ Origin Trait
 515704826  - Invader Tracker (Gambit)
 744217850  - Vanguard's Vindication (Vanguard)
 1281216113 - Stunning Recovery (Nightfalls)
+1536798515 - Land Tank (Season of the Risen)
 1607056502 - Hakke Breach Aramaments
 2839173408 - Omolon Fluid Dynamics
 2988596335 - Alacrity (Trials of Osiris)
