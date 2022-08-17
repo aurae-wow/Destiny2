@@ -1,0 +1,186 @@
+Vow of the Disciple
+613334176  - Forbearance
+768621510  - Deliverance
+786352912  - Insidious (Adept)
+999767358  - Cataclysmic
+1466006054 - Lubrae's Ruin (Adept)
+1941816543 - Submission (Adept)
+2534546147 - Lubrae's Ruin
+2886339027 - Cataclysmic (Adept)
+2943293195 - Deliverance (Adept)
+3428521585 - Insidious
+3886416794 - Submission
+4038592169 - Forbearance (Adept)
+
+Deep Stone Crypt
+1392919471 - Trustee
+2990047042 - Succession
+3281285075 - Posterity
+3366545721 - Bequest
+4230965989 - Commemoration
+4248569242 - Heritage
+
+Garden of Salvation
+48643186   - Ancient Gospel
+2209003210 - Zealot's Reward
+2408405461 - Sacred Provenance
+3385326721 - Reckless Oracle
+3454326177 - Omniscient Eye
+4020742303 - Prophet of Doom
+4095896073 - Accrued Redemption
+
+Last Wish
+568515759  - Chattering Bone
+601592879  - Age-Old Bond
+654370424  - Nation of Beasts
+686951703  - The Supremacy
+2545083870 - Apex Predator
+2721249463 - Tyranny of Heaven
+3799980700 - Transfiguration
+4094657108 - Techeun Force
+
+Vanguard Ops
+378498222  - Punching Out
+2448907086 - Royal Entry
+2821430069 - Fortissimo-11
+2891672170 - Xenoclast IV
+4156253727 - The Third Axiom
+4255586669 - Empty Vessel
+
+Crucible
+310708513  - Survivor's Epitaph
+409551876  - The Keening
+2050789284 - Stars in Shadow
+2496875173 - Sorrow's Verse
+2888266564 - Crisis Inverted
+3473290087 - Frozen Orbit
+
+Gambit
+875848769  - Borrowed Time
+1046651176 - Bottom Dollar
+1107446438 - Servant Leader
+1788603939 - Herod-C
+3258665412 - Trinary System
+3565520715 - Crowd Pleaser
+
+Iron Banner
+65611680   - The Fool's Remedy
+108221785  - Riiswalker
+852551895  - Occluded Finality
+1141547457 - Frontier's Cry
+1690783811 - The Forward Path
+1796949035 - Razor's Edge
+1967303408 - Archon's Thunder
+1972985595 - Swarm of the Raven
+3434944005 - Point of the Stag
+3813153080 - Finite Impactor
+
+Trials of Osiris
+1173780905 - The Messenger (Adept)
+1399243961 - Reed's Regret
+1907698332 - The Summoner
+2386979999 - The Scholar (Adept)
+2475355656 - Reed's Regret (Adept)
+2478792241 - The Scholar
+2638190703 - Aisha's Embrace
+3164743584 - Eye of Sol
+3245493570 - Aisha's Embrace (Adept)
+3514144928 - The Summoner (Adept)
+3637570176 - Eye of Sol (Adept)
+3658188704 - The Messenger
+3682803680 - Shayura's Wrath
+4023807721 - Shayura's Wrath (Adept)
+
+Nightfall
+432476743  - The Palindrome
+435216110  - Duty Bound
+534775659  - PLUG ONE.1 (Adept)
+681067419  - Hung Jury SR4 (Adept)
+1028582252 - The Comedian
+1135050595 - Duty Bound (Adept)
+1289000550 - PLUG ONE.1
+1387987271 - Silicon Neuroma (Adept)
+1481892490 - The Palindrome (Adept)
+1866778462 - The Hothead (Adept)
+2443900757 - The Comedian (Adept)
+3355385170 - Silicon Neuroma
+4255171531 - The Hothead
+4281371574 - Hung Jury SR4
+
+Throne World
+297296830  - Pointed Inquiry
+927567426  - Come to Pass
+1399109800 - Fel Teradiddle
+1526296434 - Forensic Nightmare
+1994645182 - Likely Suspect
+2595497736 - The Enigma
+2607304614 - Empirical Evidence
+2721157927 - Tarnation
+3175851496 - Red Herring
+3865728990 - Father's Sins
+
+30th Anniversary
+235827225  - Eyasluna
+548958835  - Retraced Path
+1679868061 - Wastelander M5
+2139640995 - Hero of Ages
+2563012876 - Matador 64
+2708806099 - BxR-55 Battler
+3257091166 - Half-Truths
+3257091167 - The Other Half
+3849810018 - Pardon Our Dust
+4161201232 - 1000 Yard Stare
+
+Europa
+20935540   - Arctic Haze
+42351395   - Subzero Salvo
+1197486957 - High Albedo
+1621657423 - Biting Winds
+1766088024 - Thermal Erosion
+2870169846 - Hailing Confusion
+3512349612 - Coriolis Force
+4037745684 - Bonechiller
+
+Pit of Heresy
+208088207  - Premonition
+
+Altars of Sorrow / Pit of Heresy
+2164448701 - Apostate
+2782847179 - Blasphemer
+3067821200 - Heretic
+
+Dreambane / Moon
+1016668089 - One Small Step
+1645386487 - Tranquility
+2723909519 - Arc Light
+2931957300 - Dream Breaker
+3325778512 - A Fine Memorial
+3690523502 - Love and Death
+3870811754 - Night Terror
+3924212056 - Loud Lullaby
+4277547616 - Every Waking Moment
+
+Prophecy
+507038823  - The Last Breath
+1476654960 - Judgment
+1626503676 - A Swift Verdict
+2481758391 - Darkest Before
+2855157553 - A Sudden Death
+3326850591 - The Long Walk
+
+Dreaming City
+334171687  - Waking Vigil
+346136302  - Retold Tale
+640114618  - Tigerspite
+1644160541 - Abide the Return
+3242168339 - Vouchsafe
+3297863558 - Twilight Oath
+3740842661 - Sleepless
+
+Season of the Worthy
+766323545  - Seventh Seraph VY-7
+1561006927 - Seventh Seraph Carbine
+1821724780 - Seventh Seraph CQC-12
+2582755344 - Seventh Seraph SAW
+3037520408 - Seventh Seraph Officer Revolver
+3937866388 - Seventh Seraph SI-2
