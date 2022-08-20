@@ -35,7 +35,6 @@ dimwishlist:item=1788603939&perks=839105230,1968497646,1820235745,3523296417
 dimwishlist:item=1788603939&perks=839105230,1968497646,1820235745,1546637391
 dimwishlist:item=1788603939&perks=839105230,1968497646,1820235745,124408337
 dimwishlist:item=1788603939&perks=839105230,1968497646,1820235745,4104185692
-dimwishlist:item=1788603939&perks=839105230,1561002382,1428297954,1890422124
 
 // Duty Bound / (Adept) (Nightfalls)
 // Arrowhead Brake, Accurized Rounds, (Stats for All / Triple Tap), (One for All / Fourth Time's the Charm)
