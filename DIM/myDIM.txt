@@ -243,6 +243,21 @@ dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417
 //notes:[Aurae] pvp, range or handling MW
 dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
 
+// Beloved (Season of the Haunted)
+// Fluted Barrel, Ricochet Rounds, Snapshot Sights, Incandescent
+//notes:[Aurae] pve, stability MW
+dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,4293542123
+
+// Father's Sins (Witch Queen Loot Pool)
+// Fluted Barrel, Accurized Rounds, Under Pressure, Opening Shot
+//notes:[Aurae] pvp, range MW
+dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
+
+// IKELOS_SR_v1.0.3
+// Arrowhead Brake, Seraph Rounds, Fourth Time's The Charm, High-impact Reserves
+//notes:[Aurae] pve, stability MW
+dimwishlist:item=2302346155&perks=839105230,1140096971,1354429876,2213355989
+
 
 // ---- SUBMACHINE GUN ----
 // IKELOS_SMG_V1.0.2
