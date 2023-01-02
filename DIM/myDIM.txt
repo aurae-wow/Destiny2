@@ -75,6 +75,11 @@ dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4104185692
 //notes:[Aurae] Gambit preference given the low amount of special ammo present
 dimwishlist:item=3258665412&perks=839105230,689005463,1645158859,2213355989
 
+// Aurvandil FR6
+// Arrowhead Brake, Accelerated Coils, Reconstruction, Chill Clip
+//notes:[Aurae] PvE preference, strong combo, Charge Time MW
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
+
 
 // ---- GRENADE LAUNCHER ----
 // Ignition Code (Season of the Splicer)
