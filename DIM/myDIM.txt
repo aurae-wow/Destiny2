@@ -14,7 +14,7 @@ dimwishlist:item=2147010335&perks=4090651448,106909392,3643424744,2848615171
 dimwishlist:item=2147010335&perks=4090651448,3142289711,3643424744,2848615171
 dimwishlist:item=2147010335&perks=839105230,3142289711,3643424744,2848615171
 
-// Krait (pve)
+// Krait (World Loot Pool)
 // Arrowhead Brake, Armor-Piercing Rounds, (Overflow / Subsistence), (Headstone, Vorpal)
 //notes:[Aurae] pve preference
 dimwishlist:item=2852052802&perks=839105230,1968497646,3643424744,124408337
@@ -56,7 +56,7 @@ dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,4104185692
 dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,4104185692
 dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,4104185692
 
-// Seventh Seraph Carbine
+// Seventh Seraph Carbine (Spire of the Watcher)
 // Arrowhead Brake, Seraph Rounds, Reconstruction, Target Lock
 //notes:[Aurae] pve, range MW
 dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968
@@ -80,7 +80,7 @@ dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4104185692
 //notes:[Aurae] Gambit preference given the low amount of special ammo present
 dimwishlist:item=3258665412&perks=839105230,689005463,1645158859,2213355989
 
-// Aurvandil FR6
+// Aurvandil FR6 (World Loot Pool)
 // Arrowhead Brake, Accelerated Coils, Reconstruction, Chill Clip
 //notes:[Aurae] PvE preference, strong combo, Charge Time MW
 dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
@@ -94,11 +94,6 @@ dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,3523296417
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,3523296417
-
-// Pardon Our Dust (30th Anniversary)
-// Volatile Launch, Blinding Grenades, Auto-Loading Holster, Danger Zone
-//notes: [Aurae] Blinding/ALH pve
-dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,960810156
 
 // Truthteller
 // Linear Compensator, Blinding Grenades, Auto-Loading Holster, Demolitionist
@@ -137,7 +132,7 @@ dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770#not
 //notes:[Aurae] pvp, range MW
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
 
-// Cantata-57
+// Cantata-57 (World Loot Pool)
 // Arrowhead Brake, Accuraized Rounds, Rapid Hit, (Timed Payload / Rangefinder)
 dimwishlist:item=372697604&perks=839105230,3142289711,247725512,1954620775#notes:[Aurae] pve
 dimwishlist:item=372697604&perks=839105230,3142289711,247725512,2846385770#notes:[Aurae] pvp
@@ -154,7 +149,7 @@ dimwishlist:item=1476654960&perks=1926090094,3230963543,3523296417,1954620775
 dimwishlist:item=1476654960&perks=1926090094,3230963543,1195158366,1954620775
 dimwishlist:item=1476654960&perks=1926090094,3142289711,1195158366,1954620775
 
-// Seventh Seraph Officer Revolver
+// Seventh Seraph Officer Revolver (Spire of the Watcher)
 // Arrowhead Brake, Seraph Rounds, Reconstruction, (Vorpal Weapon / Redirection)
 //notes:[Aurae] pve, range MW
 dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,3201496230
@@ -170,12 +165,7 @@ dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
 
 
 // ---- PULSE RIFLE ----
-// BXR-55 Battler (30th Anniversary)
-// Arrowhead Brake, Flared Magwell, Demolitionist, Adrenaline Junkie
-//notes:[Aurae] pve, reload speed MW
-dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
-
-// Ogma PR6
+// Ogma PR6 (World Loot Pool)
 // (Arrowhead Brake / Smallbore), Accurized Rounds, Demolitionist, (Adrenaline Junkie / Dragonfly)
 //notes:[Aurae] pve preference
 dimwishlist:item=2342054803&perks=1482024992,3142289711,3523296417,11612903
@@ -183,7 +173,7 @@ dimwishlist:item=2342054803&perks=1482024992,3142289711,3523296417,2848615171
 dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,11612903
 dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,2848615171
 
-// New Purpose
+// New Purpose (Duality)
 // Arrwohead Brake, Ricochet Rounds, Feeding Frenzy, Adaptive Munitions
 //notes:[Aurae] pve, range MW
 dimwishlist:item=1780464822&perks=839105230,1885400500,2779035018,1048183818
@@ -206,7 +196,7 @@ dimwishlist:item=1866778462&perks=1478423395,2985827016,3523296417,2284787283
 
 
 // ---- SCOUT RIFLE ----
-// Perses-D
+// Perses-D (World Loot Pool)
 // Arrowhead Brake, Flared Magwell, Rapid Hit, (Headstone / Explosive Payload)
 //notes: [Aurae] pve preference
 dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,124408337
@@ -233,11 +223,6 @@ dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,3425386926
 dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
 
-// Wastelander M5 (30th Anniversary)
-// Barrel Shroud, Tactical Mag, Subsistence, One-Two Punch
-//notes:[Aurae] pve, range MW
-dimwishlist:item=1679868061&perks=1300023272,106909392,1820235745,2679249093
-
 
 // ---- SNIPER RIFLE ----
 // Uzume RR4 / (Adept) (Nightfalls)
@@ -251,7 +236,7 @@ dimwishlist:item=852228780&perks=839105230,1087426260,3400784728,1546637391#note
 dimwishlist:item=852228780&perks=839105230,1087426260,957782887,1546637391#notes:[Aurae] Snapshot pvp against supers
 dimwishlist:item=852228780&perks=4090651448,1087426260,957782887,1546637391#notes:[Aurae] Snapshot pvp against supers
 
-// Distant Tumulus (World loot pool)
+// Distant Tumulus (World Loot Pool)
 // (Arrowhead / Corkscrew), (Appended / Tactical), Clown Cartridge, Firing Line
 //notes:[Aurae] pve burst sniper, range MW
 dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417
@@ -264,20 +249,10 @@ dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417
 //notes:[Aurae] pvp, range or handling MW
 dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
 
-// Beloved (Season of the Haunted)
-// Fluted Barrel, Ricochet Rounds, Snapshot Sights, Incandescent
-//notes:[Aurae] pve, stability MW
-dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,4293542123
-
 // Father's Sins (Witch Queen Loot Pool)
 // Fluted Barrel, Accurized Rounds, Under Pressure, Opening Shot
 //notes:[Aurae] pvp, range MW
 dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
-
-// IKELOS_SR_v1.0.3
-// Arrowhead Brake, Seraph Rounds, Fourth Time's The Charm, High-impact Reserves
-//notes:[Aurae] pve, stability MW
-dimwishlist:item=2302346155&perks=839105230,1140096971,1354429876,2213355989
 
 
 // ---- SUBMACHINE GUN ----
@@ -292,7 +267,7 @@ dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007#note
 // Model 8 Red, Accurized Rounds, Dynamic Sway Reduction, Iron Reach
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,591790007#notes:[Aurae] Controller pvp, Range MW
 
-// Funnelweb
+// Funnelweb (World Loot Pool)
 // Corkscrew, Accurized Rounds, Subsistence, (Frenzy / Adrenaline Junkie)
 //notes:[Aurae] pve preference, Stability MW
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
@@ -301,6 +276,11 @@ dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,11612903
 dimwishlist:item=3341893443&perks=4090651448,3230963543,1428297954,11612903
 dimwishlist:item=3341893443&perks=1392496348,3230963543,1428297954,11612903
 dimwishlist:item=3341893443&perks=1482024992,3230963543,1428297954,11612903
+
+// Unforgiven (Duality)
+// Corkscrew, Ricochet Rounds, Demolitionist, Repulsor Brace
+//notes:[Aurae] pve, range MW
+dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
 
 
 // ---- SWORD ----
@@ -316,7 +296,3 @@ dimwishlist:item=3847137620&perks=436053704,269888150,2590710093,2396489472
 
 
 // ---- TRACE RIFLE ----
-// Retraced Path (30th Anniversary)
-// Fluted Barrel, Tactical Battery, Subsistence, Golden Tricorn, Reload Speed MW
-//notes: [Aurae] pve, reload speed MW
-dimwishlist:item=548958835&perks=1840239774,732557052,1820235745,2610012052
