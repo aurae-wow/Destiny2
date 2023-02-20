@@ -96,9 +96,25 @@ dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,1546637391
 dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,3523296417
 
 // Truthteller
-// Linear Compensator, Blinding Grenades, Auto-Loading Holster, Demolitionist
-//notes:[Aurae] blast radius masterwork preferred
+// Linear Compensator, Blinding Grenades, Auto-loading Holster, Demolitionist
+//notes:[Aurae] pve, velocity MW
 dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,3523296417
+
+// Lingering Dread (Duality)
+// Quick Launch, Blinding Grenades, Auto-loading Holster, (Chill Clip / Demolitionist)
+//notes:[Aurae] pve, velocity MW
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
+dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,3523296417
+
+// Wilderflight (Spire of the Watcher)
+// Smart Drift Control, Blinding Grenades, (Auto-loading Holster / Repulsor Brace / Demolitionist), (Vorpal Weapon / Disruption Break)
+//notes:[Aurae] pve, reload speed MW
+dimwishlist:item=2306182339&perks=3798852852,3032599245,3300816228,1546637391
+dimwishlist:item=2306182339&perks=3798852852,3032599245,776531651,1546637391
+dimwishlist:item=2306182339&perks=3798852852,3032599245,3523296417,1546637391
+dimwishlist:item=2306182339&perks=3798852852,3032599245,3523296417,1683379515
+dimwishlist:item=2306182339&perks=3798852852,3032599245,776531651,1683379515
+dimwishlist:item=2306182339&perks=3798852852,3032599245,3300816228,1683379515
 
 
 // ---- HAND CANNON ----
