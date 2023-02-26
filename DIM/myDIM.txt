@@ -85,6 +85,11 @@ dimwishlist:item=3258665412&perks=839105230,689005463,1645158859,2213355989
 //notes:[Aurae] PvE preference, strong combo, Charge Time MW
 dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
 
+// Riptide (Crucible)
+// Arrowhead Brake, Accelerated Coils, Auto-loading Holster, Chill Clip
+//notes:[Aurae] pve, charge time MW
+dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579
+
 
 // ---- GRENADE LAUNCHER ----
 // Ignition Code (Season of the Splicer)
