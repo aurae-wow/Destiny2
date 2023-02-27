@@ -219,9 +219,14 @@ dimwishlist:item=1866778462&perks=1478423395,2985827016,3523296417,2284787283
 // ---- SCOUT RIFLE ----
 // Perses-D (World Loot Pool)
 // Arrowhead Brake, Flared Magwell, Rapid Hit, (Headstone / Explosive Payload)
-//notes: [Aurae] pve preference
+//notes:[Aurae] pve preference
 dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,124408337
 dimwishlist:item=1019000888&perks=839105230,3230963543,247725512,3038247973
+
+// Servant Leader (Gambit)
+// Arrowhead Brake, Accuraized Rounds, Rapid Hit, Rampage
+//notes:[Aurae] pve, range MW
+dimwishlist:item=1107446438&perks=839105230,3142289711,247725512,3425386926
 
 
 // ---- SHOTGUN ----
@@ -302,6 +307,11 @@ dimwishlist:item=3341893443&perks=1482024992,3230963543,1428297954,11612903
 // Corkscrew, Ricochet Rounds, Demolitionist, Repulsor Brace
 //notes:[Aurae] pve, range MW
 dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
+
+// Borrowed Time (Gambit)
+// Arrowhead Brake, Ricochet Rounds, Overflow, Rampage
+//notes:[Aurae] pve, range MW
+dimwishlist:item=875848769&perks=839105230,1885400500,3643424744,3425386926
 
 
 // ---- SWORD ----
