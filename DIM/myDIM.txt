@@ -61,6 +61,11 @@ dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,4104185692
 //notes:[Aurae] pve, range MW
 dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968
 
+// Lodbrok-C (World Pool)
+// Fluted Barrel, Armor-Piercing Rounds, Demolitionist, Target Lock
+//notes:[Aurae] pve, reload MW
+dimwishlist:item=2328531378&perks=1840239774,1968497646,3523296417,365154968
+
 
 // ---- COMBAT BOW ----
 // Wolftone Draw (Season of the Lost)
@@ -199,6 +204,11 @@ dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,2848615171
 //notes:[Aurae] pve, range MW
 dimwishlist:item=1780464822&perks=839105230,1885400500,2779035018,1048183818
 
+// Battle Scar (World Loot Pool)
+// Arrowhead Brake / Accuraized Rounds / Keep Away / Kinetic Tremors
+//notes:[Aurae] pve, range/reload MW
+dimwishlist:item=2099894368&perks=839105230,3142289711,3619207468,3891536761
+
 
 // ---- ROCKET LAUNCHER ----
 // Royal Entry (Strike playlist)
@@ -248,6 +258,11 @@ dimwishlist:item=2782847179&perks=4090651448,106909392,1354429876,3425386926
 //notes:[Aurae] pvp, range MW
 dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+
+// Basso Ostinato (Neomuna)
+// Smoothbore / Tactical Magazine / Envious Assassin / Destabilizing Rounds
+//notes:[Aurae] pve, range MW
+dimwishlist:item=2573900604&perks=466087222,106909392,968510818,2048641572
 
 
 // ---- SNIPER RIFLE ----
@@ -312,6 +327,11 @@ dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
 // Arrowhead Brake, Ricochet Rounds, Overflow, Rampage
 //notes:[Aurae] pve, range MW
 dimwishlist:item=875848769&perks=839105230,1885400500,3643424744,3425386926
+
+// Synchronic Roulette
+// Fluted Barrel / Ricochet Rounds / Envious Assassin / Hatchling
+//notes:[Aurae] pve, range/reload MW
+dimwishlist:item=811403305&perks=1840239774,1885400500,968510818,831391274
 
 
 // ---- SWORD ----
