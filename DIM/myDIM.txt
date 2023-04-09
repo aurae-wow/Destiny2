@@ -189,6 +189,12 @@ dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,1546637391
 dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
 dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
 
+// ---- MACHINE GUN ----
+// Circular Logic
+// Arrowhead Brake, Ricochet Rounds, Envious Assassin, Hatchling
+//notes:[Aurae] pve, range MW
+dimwishlist:item=2187717691&perks=839105230,1885400500,968510818,831391274
+
 
 // ---- PULSE RIFLE ----
 // Ogma PR6 (World Loot Pool)
