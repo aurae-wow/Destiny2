@@ -78,6 +78,11 @@ dimwishlist:item=3472875143&perks=2801223209,2154191829,3700496672,2848615171#no
 dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692
 dimwishlist:item=3460122497&perks=2801223209,3429800428,951095735,4104185692
 
+// Strident Whistle
+// Agile Bowstring, Compact Arrow Shaft, Archer's Tempo, Incandescent
+//notes:[Aurae] pve, draw time MW
+dimwishlist:item=2591241074&perks=3768438372,16392701,201365942,4293542123
+
 
 // ---- FUSION RIFLE ----
 // Trinary System (Gambit)
