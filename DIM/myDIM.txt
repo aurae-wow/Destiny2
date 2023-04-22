@@ -201,6 +201,11 @@ dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
 //notes:[Aurae] pve, range MW
 dimwishlist:item=2187717691&perks=839105230,1885400500,968510818,831391274
 
+// Terminus Horizon (Spire of the Watcher)
+// Arrowhead Brake, Appended Magazine, Triple Tap, Target Lock
+//notes:[Aurae] pve dps, range MW
+dimwishlist:item=487205709&perks=839105230,1087426260,3400784728,365154968
+
 
 // ---- PULSE RIFLE ----
 // Ogma PR6 (World Loot Pool)
