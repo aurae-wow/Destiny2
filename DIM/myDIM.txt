@@ -341,18 +341,8 @@ dimwishlist:item=2807687156&perks=839105230,1087426260,2284787283,1771339417
 //notes:[Aurae] pvp, range or handling MW
 dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
 
-// Father's Sins (Witch Queen Loot Pool)
-// Fluted Barrel, Accurized Rounds, Under Pressure, Opening Shot
-//notes:[Aurae] pvp, range MW
-dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
-
 
 // ---- SUBMACHINE GUN ----
-// IKELOS_SMG_V1.0.2
-// Corkscrew, Seraph Rounds, Subsistence, Demolitionist, Stability MW
-//notes: [Aurae] pve, stability MW
-dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417
-
 // Multimach CCX (Iron Banner)
 // Model 8 Red, Accurized Rounds, Killing Wind, Iron Reach
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007#notes:[Aurae] MnK pvp, Range MW
@@ -380,9 +370,14 @@ dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,776531651
 dimwishlist:item=875848769&perks=839105230,1885400500,3643424744,3425386926
 
 // Synchronic Roulette
-// Fluted Barrel / Ricochet Rounds / Envious Assassin / Hatchling
+// Fluted Barrel, Ricochet Rounds, Envious Assassin, Hatchling
 //notes:[Aurae] pve, range/reload MW
 dimwishlist:item=811403305&perks=1840239774,1885400500,968510818,831391274
+
+// The Hero's Burden (Iron Banner)
+// Corkscrew Rifling, Accurized Rounds, Feeding Frenzy, Destabilizing Rounds
+//notes:[Aurae] pve, range MW
+dimwishlist:item=1028124540&perks=4090651448,3142289711,2779035018,2048641572
 
 
 // ---- SWORD ----
